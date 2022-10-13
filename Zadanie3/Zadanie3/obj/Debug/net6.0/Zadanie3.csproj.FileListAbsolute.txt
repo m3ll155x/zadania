@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/bin/Debug/net6.0/Zadanie3
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/bin/Debug/net6.0/Zadanie3.deps.json
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/bin/Debug/net6.0/Zadanie3.runtimeconfig.json
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/bin/Debug/net6.0/Zadanie3.dll
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/bin/Debug/net6.0/Zadanie3.pdb
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/Zadanie3.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/Zadanie3.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/Zadanie3.AssemblyInfo.cs
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/Zadanie3.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/Zadanie3.dll
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/refint/Zadanie3.dll
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/Zadanie3.pdb
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/Zadanie3.genruntimeconfig.cache
+/Users/almostleaving/Projects/Zadanie3/Zadanie3/obj/Debug/net6.0/ref/Zadanie3.dll
