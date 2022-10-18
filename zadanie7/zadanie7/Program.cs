@@ -25,7 +25,7 @@ namespace zadanie7
                 v = 10;
                 z = v;
                 }
-                else if (x>0&&y > 0)
+                else
                 {
 
                 v = x + y;
