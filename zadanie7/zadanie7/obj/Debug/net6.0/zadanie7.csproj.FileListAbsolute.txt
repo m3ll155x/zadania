@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/zadanie7.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/zadanie7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/zadanie7.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/zadanie7.AssemblyInfo.cs
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/zadanie7.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/zadanie7/zadanie7/bin/Debug/net6.0/zadanie7
+/Users/almostleaving/Projects/zadanie7/zadanie7/bin/Debug/net6.0/zadanie7.deps.json
+/Users/almostleaving/Projects/zadanie7/zadanie7/bin/Debug/net6.0/zadanie7.runtimeconfig.json
+/Users/almostleaving/Projects/zadanie7/zadanie7/bin/Debug/net6.0/zadanie7.dll
+/Users/almostleaving/Projects/zadanie7/zadanie7/bin/Debug/net6.0/zadanie7.pdb
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/zadanie7.dll
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/refint/zadanie7.dll
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/zadanie7.pdb
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/zadanie7.genruntimeconfig.cache
+/Users/almostleaving/Projects/zadanie7/zadanie7/obj/Debug/net6.0/ref/zadanie7.dll
