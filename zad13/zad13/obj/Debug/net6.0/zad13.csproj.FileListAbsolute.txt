@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/zad13/zad13/bin/Debug/net6.0/zad13
+/Users/almostleaving/Projects/zad13/zad13/bin/Debug/net6.0/zad13.deps.json
+/Users/almostleaving/Projects/zad13/zad13/bin/Debug/net6.0/zad13.runtimeconfig.json
+/Users/almostleaving/Projects/zad13/zad13/bin/Debug/net6.0/zad13.dll
+/Users/almostleaving/Projects/zad13/zad13/bin/Debug/net6.0/zad13.pdb
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/zad13.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/zad13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/zad13.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/zad13.AssemblyInfo.cs
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/zad13.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/zad13.dll
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/refint/zad13.dll
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/zad13.pdb
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/zad13.genruntimeconfig.cache
+/Users/almostleaving/Projects/zad13/zad13/obj/Debug/net6.0/ref/zad13.dll
