@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/zad15.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/zad15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/zad15.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/zad15.AssemblyInfo.cs
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/zad15.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/zad15/zad15/bin/Debug/net7.0/zad15
+/Users/almostleaving/Projects/zad15/zad15/bin/Debug/net7.0/zad15.deps.json
+/Users/almostleaving/Projects/zad15/zad15/bin/Debug/net7.0/zad15.runtimeconfig.json
+/Users/almostleaving/Projects/zad15/zad15/bin/Debug/net7.0/zad15.dll
+/Users/almostleaving/Projects/zad15/zad15/bin/Debug/net7.0/zad15.pdb
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/zad15.dll
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/refint/zad15.dll
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/zad15.pdb
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/zad15.genruntimeconfig.cache
+/Users/almostleaving/Projects/zad15/zad15/obj/Debug/net7.0/ref/zad15.dll
