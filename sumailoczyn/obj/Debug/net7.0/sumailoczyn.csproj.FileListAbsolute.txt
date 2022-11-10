@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/sumailoczyn.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/sumailoczyn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/sumailoczyn.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/sumailoczyn.AssemblyInfo.cs
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/sumailoczyn.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/bin/Debug/net7.0/sumailoczyn
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/bin/Debug/net7.0/sumailoczyn.deps.json
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/bin/Debug/net7.0/sumailoczyn.runtimeconfig.json
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/bin/Debug/net7.0/sumailoczyn.dll
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/bin/Debug/net7.0/sumailoczyn.pdb
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/sumailoczyn.dll
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/refint/sumailoczyn.dll
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/sumailoczyn.pdb
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/sumailoczyn.genruntimeconfig.cache
+/Users/almostleaving/Projects/sumailoczyn/sumailoczyn/obj/Debug/net7.0/ref/sumailoczyn.dll
