@@ -11,11 +11,11 @@ namespace sumailoczyn
 
             int n, przezCoPodzielna, kolejnaPodzielna;
 
-            Console.Write("Podaj n\n> ");
+            Console.Write("Podaj wartosc zmiennej n\n> ");
             var nstring = Console.ReadLine();
             n = Int32.Parse(nstring);
 
-            Console.Write("\nPodaj k\n> ");
+            Console.Write("\nPodaj wartosc zmiennej k\n> ");
             var kstring = Console.ReadLine();
             przezCoPodzielna = Int32.Parse(kstring);
 
