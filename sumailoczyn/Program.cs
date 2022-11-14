@@ -24,7 +24,7 @@ namespace sumailoczyn
             foreach (var i in Enumerable.Range(1, n))
             {
                 suma += kolejnaPodzielna;
-                iloczyn = iloczyn * kolejnaPodzielna;
+                iloczyn *= kolejnaPodzielna;
                 kolejnaPodzielna += przezCoPodzielna;
             }
 
