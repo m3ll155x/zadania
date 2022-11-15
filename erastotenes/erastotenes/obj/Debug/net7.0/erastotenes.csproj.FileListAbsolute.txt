@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/erastotenes.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/erastotenes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/erastotenes.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/erastotenes.AssemblyInfo.cs
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/erastotenes.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/erastotenes/erastotenes/bin/Debug/net7.0/erastotenes
+/Users/almostleaving/Projects/erastotenes/erastotenes/bin/Debug/net7.0/erastotenes.deps.json
+/Users/almostleaving/Projects/erastotenes/erastotenes/bin/Debug/net7.0/erastotenes.runtimeconfig.json
+/Users/almostleaving/Projects/erastotenes/erastotenes/bin/Debug/net7.0/erastotenes.dll
+/Users/almostleaving/Projects/erastotenes/erastotenes/bin/Debug/net7.0/erastotenes.pdb
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/erastotenes.dll
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/refint/erastotenes.dll
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/erastotenes.pdb
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/erastotenes.genruntimeconfig.cache
+/Users/almostleaving/Projects/erastotenes/erastotenes/obj/Debug/net7.0/ref/erastotenes.dll
