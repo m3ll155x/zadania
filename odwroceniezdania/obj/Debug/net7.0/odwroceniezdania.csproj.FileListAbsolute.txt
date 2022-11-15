@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/odwroceniezdania.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/odwroceniezdania.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/odwroceniezdania.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/odwroceniezdania.AssemblyInfo.cs
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/odwroceniezdania.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/bin/Debug/net7.0/odwroceniezdania
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/bin/Debug/net7.0/odwroceniezdania.deps.json
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/bin/Debug/net7.0/odwroceniezdania.runtimeconfig.json
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/bin/Debug/net7.0/odwroceniezdania.dll
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/bin/Debug/net7.0/odwroceniezdania.pdb
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/odwroceniezdania.dll
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/refint/odwroceniezdania.dll
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/odwroceniezdania.pdb
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/odwroceniezdania.genruntimeconfig.cache
+/Users/almostleaving/Projects/odwroceniezdania/odwroceniezdania/obj/Debug/net7.0/ref/odwroceniezdania.dll
