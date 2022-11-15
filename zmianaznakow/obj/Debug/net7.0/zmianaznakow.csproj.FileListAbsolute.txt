@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/zmianaznakow.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/zmianaznakow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/zmianaznakow.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/zmianaznakow.AssemblyInfo.cs
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/zmianaznakow.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/bin/Debug/net7.0/zmianaznakow
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/bin/Debug/net7.0/zmianaznakow.deps.json
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/bin/Debug/net7.0/zmianaznakow.runtimeconfig.json
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/bin/Debug/net7.0/zmianaznakow.dll
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/bin/Debug/net7.0/zmianaznakow.pdb
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/zmianaznakow.dll
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/refint/zmianaznakow.dll
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/zmianaznakow.pdb
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/zmianaznakow.genruntimeconfig.cache
+/Users/almostleaving/Projects/zmianaznakow/zmianaznakow/obj/Debug/net7.0/ref/zmianaznakow.dll
