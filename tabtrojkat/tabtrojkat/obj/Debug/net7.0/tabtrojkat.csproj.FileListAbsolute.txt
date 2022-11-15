@@ -1,0 +1,15 @@
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/bin/Debug/net7.0/tabtrojkat
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/bin/Debug/net7.0/tabtrojkat.deps.json
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/bin/Debug/net7.0/tabtrojkat.runtimeconfig.json
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/bin/Debug/net7.0/tabtrojkat.dll
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/bin/Debug/net7.0/tabtrojkat.pdb
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/tabtrojkat.csproj.AssemblyReference.cache
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/tabtrojkat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/tabtrojkat.AssemblyInfoInputs.cache
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/tabtrojkat.AssemblyInfo.cs
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/tabtrojkat.csproj.CoreCompileInputs.cache
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/tabtrojkat.dll
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/refint/tabtrojkat.dll
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/tabtrojkat.pdb
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/tabtrojkat.genruntimeconfig.cache
+/Users/almostleaving/Projects/tabtrojkat/tabtrojkat/obj/Debug/net7.0/ref/tabtrojkat.dll
